@@ -1,0 +1,1 @@
+export const XOA_SINH_VIEN ='XOA_SINH_VIEN'
